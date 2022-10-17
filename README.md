@@ -13,3 +13,11 @@ This is how the structure looks like:
 
 Here is a example of "ACH_Asteroid 3"
 ![Audio](https://github.com/JeyKul/AdvancedSamsungVibrationPattern/blob/main/vibrationexample.ogg?raw=true)
+
+With that knowledge, we take a look at the metadata of the .ogg file.
+
+![Structure](https://github.com/JeyKul/AdvancedSamsungVibrationPattern/blob/main/metadata.jpg?raw=true)
+as you can see here, we have 
+> ANDROID_HAPTIC: 1
+> ANDROID_LOOP: true
+which I assume are very important for this to work.
