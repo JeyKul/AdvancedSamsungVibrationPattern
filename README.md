@@ -10,3 +10,6 @@ I loaded the ringtone "ACH_Asteroid.ogg" into Audacity and found out, that the R
 "ACH_Asteroid 3" is basically just the vibration pattern. 
 This is how the structure looks like:
 ![Structure](https://github.com/JeyKul/AdvancedSamsungVibrationPattern/blob/main/howdoesitlook.jpg?raw=true)
+
+Here is a example of "ACH_Asteroid 3"
+![Audio]([https://github.com/JeyKul/AdvancedSamsungVibrationPattern/blob/main/howdoesitlook.jpg?raw=true](https://github.com/JeyKul/AdvancedSamsungVibrationPattern/blob/main/vibrationexample.ogg?raw=true))
