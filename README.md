@@ -28,3 +28,9 @@ which I assume are very important for this to work.
 
 
 ![to show a proof of concept, I recorded a video](proofofconcept.mp4)
+
+
+the vibration may be very quiet, but you can turn volume up without being scared, lol
+
+if you make custom ringtones, i would be happy to hear/test them.
+Dont forget to export them as OGG!
