@@ -23,4 +23,5 @@ as you can see here, we have
 > ANDROID_HAPTIC: 1
 
 > ANDROID_LOOP: true
+
 which I assume are very important for this to work.
