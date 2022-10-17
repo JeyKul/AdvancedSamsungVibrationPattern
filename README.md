@@ -25,3 +25,6 @@ as you can see here, we have
 > ANDROID_LOOP: true
 
 which I assume are very important for this to work.
+
+
+![to show a proof of concept, I recorded a video](proofofconcept.mp4)
