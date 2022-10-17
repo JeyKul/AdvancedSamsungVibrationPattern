@@ -17,6 +17,8 @@ Here is a example of "ACH_Asteroid 3"
 With that knowledge, we take a look at the metadata of the .ogg file.
 
 ![Structure](https://github.com/JeyKul/AdvancedSamsungVibrationPattern/blob/main/metadata.jpg?raw=true)
+
+
 as you can see here, we have 
 > ANDROID_HAPTIC: 1
 > ANDROID_LOOP: true
